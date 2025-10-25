@@ -12,7 +12,7 @@ connectDB()
 connectCloudinary()
 
 const whiteList = [
-    'https://e-commerce-frontend-kohl-mu.vercel.app/',
+    'https://e-commerce-frontend-kohl-mu.vercel.app',
     'https://your-custom-domain.com' 
     
 ]
